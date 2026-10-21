@@ -38,7 +38,7 @@ The Actions run summary reports the outcome of each task.
 Commit and push your changes to your own repository. For a local clone, run:
  ```bash
  git add tasks.py
- git commit -m "Complete week 1 tasks"
+ git commit -m "Completed tasks"
  git push
  ```
 After the push, go to your browser, open your repository's **Actions** tab and select the newest **Grade assignment** run. Its **Summary** shows the result for each task; open the task steps to see test details. If no run appears, check that Actions are enabled and that you pushed to your own repository.
